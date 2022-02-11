@@ -1,0 +1,38 @@
+.div1{
+
+    background-image: url('b9f365b9ea9cfea710ec7e009f17afcf.jpg');
+    background-size: cover;
+    height:600px;
+    width: 500px;
+    background-repeat: no-repeat ;
+    background-position: center;
+    text-align: center;
+    color: gold;
+
+}
+.div2{
+    background-color:rgba(0,0,0, .5);
+    height: 100%;
+    width: 100%;
+    
+}
+ .div3 a{
+    text-decoration: none;
+    border: 1px solid black;
+    border-radius: 40px ;
+    padding: 5px 30px;
+    margin : 40px 10px 10px 10px   ;
+    background-color:orange ;
+    font-family: fantasy;
+  
+    color: white;
+    text-align: center;
+}
+.div3 a[target="blank"] {
+    
+    border: 1px solid orange;
+    margin : 40px 10px 10px 10px   ;
+    background-color:white ;
+    color: orange;
+
+}
